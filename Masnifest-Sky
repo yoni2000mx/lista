@@ -342,6 +342,12 @@ http://104.236.124.24:1583/goldenpremier2/playlist.m3u8
 #EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Max Prime
 http://162.243.133.156:1583/maxprime/playlist.m3u8
 
+#EXTINF:1,Peliculas Vitato
+https://video05-lax.streamup.com/app/vitato/playlist.m3u8
+
+#EXTINF:1,Peliculas Broadmovies
+https://video05-lax.streamup.com/app/broadmoviess-channel/playlist.m3u8
+
 #EXTINF:1,Peliculas HD
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 
