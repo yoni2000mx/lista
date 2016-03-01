@@ -276,3 +276,119 @@ http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
 #EXTINF:-1 group-title="NOTICIAS",ABC News 
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
+#EXTINF:-1,CANAL 1
+http://iptv-supplier.com:8000/live/elm/elm/479.ts
+
+#EXTINF:-1,CANAL 2
+http://iptv-supplier.com:8000/live/elm/elm/480.ts
+
+#EXTINF:-1,CANAL TOROS
+http://iptv-supplier.com:8000/live/elm/elm/385.ts
+
+#EXTINF:-1,CANAL LIGA
+http://iptv-supplier.com:8000/live/elm/elm/386.ts
+
+#EXTINF:-1,CANAL GOLF
+http://iptv-supplier.com:8000/live/elm/elm/387.ts
+
+#EXTINF:-1,CANAL FUTBOL
+http://iptv-supplier.com:8000/live/elm/elm/388.ts
+
+#EXTINF:-1,CANAL+ DEPORTES
+http://iptv-supplier.com:8000/live/elm/elm/2036.ts
+
+#EXTINF:-1,CANAL COMEDIA
+http://iptv-supplier.com:8000/live/elm/elm/389.ts
+
+#EXTINF:-1,CANAL ACCION
+http://iptv-supplier.com:8000/live/elm/elm/481.ts
+
+#EXTINF:-1,CANAL ESTRENOS
+http://iptv-supplier.com:8000/live/elm/elm/1853.ts
+
+#EXTINF:-1,C+ SERIES
+http://iptv-supplier.com:8000/live/elm/elm/1854.ts
+
+#EXTINF:-1,CANAL DCINE
+http://iptv-supplier.com:8000/live/elm/elm/482.ts
+
+#EXTINF:-1,ODISEA
+http://iptv-supplier.com:8000/live/elm/elm/1857.ts
+
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://iptv-supplier.com:8000/live/elm/elm/1856.ts
+
+#EXTINF:-1,LA SEXTA
+http://iptv-supplier.com:8000/live/elm/elm/382.ts
+
+#EXTINF:-1,REAL MADRID
+http://iptv-supplier.com:8000/live/elm/elm/1662.ts
+
+#EXTINF:-1,Barça
+http://iptv-supplier.com:8000/live/elm/elm/484.ts
+
+#EXTINF:-1,EUROSPORT
+http://iptv-supplier.com:8000/live/elm/elm/1668.ts
+
+#EXTINF:-1,EURONEWS
+http://iptv-supplier.com:8000/live/elm/elm/1806.ts
+
+#EXTINF:-1,SYFY
+http://iptv-supplier.com:8000/live/elm/elm/1876.ts
+
+#EXTINF:-1,KISS TV
+http://iptv-supplier.com:8000/live/elm/elm/1877.ts
+
+#EXTINF:-1,DISNEY CHANNEL
+http://iptv-supplier.com:8000/live/elm/elm/1671.ts
+
+#EXTINF:-1,CUATRO
+http://iptv-supplier.com:8000/live/elm/elm/1673.ts
+
+#EXTINF:-1,TELECINCO
+http://iptv-supplier.com:8000/live/elm/elm/1660.ts
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://iptv-supplier.com:8000/live/elm/elm/1664.ts
+
+#EXTINF:-1,MOVISTAR F1
+http://iptv-supplier.com:8000/live/elm/elm/1661.ts
+
+#EXTINF:-1,MEGA
+http://iptv-supplier.com:8000/live/elm/elm/383.ts
+
+#EXTINF:-1,La2
+http://iptv-supplier.com:8000/live/elm/elm/1666.ts
+
+#EXTINF:-1,La1
+http://iptv-supplier.com:8000/live/elm/elm/1667.ts
+
+#EXTINF:-1,HOLLYWOOD HD
+http://iptv-supplier.com:8000/live/elm/elm/973.ts
+
+#EXTINF:-1,HISTORIA
+http://iptv-supplier.com:8000/live/elm/elm/381.ts
+
+#EXTINF:-1,GALICIA
+http://iptv-supplier.com:8000/live/elm/elm/1669.ts
+
+#EXTINF:-1,FOX LIFE
+http://iptv-supplier.com:8000/live/elm/elm/1665.ts
+
+#EXTINF:-1,FOX1
+http://iptv-supplier.com:8000/live/elm/elm/1670.ts
+
+#EXTINF:-1,CLAN TVE
+http://iptv-supplier.com:8000/live/elm/elm/1676.ts
+
+#EXTINF:-1,CANAL 13
+http://iptv-supplier.com:8000/live/elm/elm/969.ts
+
+#EXTINF:-1,BEIN SPORTS Ñ
+http://iptv-supplier.com:8000/live/elm/elm/486.ts
+
+#EXTINF:-1,AXN WHITE SPAIN
+http://iptv-supplier.com:8000/live/elm/elm/1674.ts
+
+#EXTINF:-1,ANTENA 3
+http://iptv-supplier.com:8000/live/elm/elm/1675.ts
