@@ -52,22 +52,22 @@ http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/playlist.m3u8
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO 39
-http://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/playlist.m3u8
+http://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Estrella TV
-http://streamup.global.ssl.fastly.net/app/vic_manz02s-stream/playlist.m3u8
+http://streamup.global.ssl.fastly.net/app/vic_manz02s-stream_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Azteca US
-http://streamup.global.ssl.fastly.net/app/vic_manzs-stream/playlist.m3u8
+http://streamup.global.ssl.fastly.net/app/vic_manzs-stream_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVISION 23
-http://streamup.global.ssl.fastly.net/app/turbo-maxs-channel/playlist.m3u8
+http://streamup.global.ssl.fastly.net/app/turbo-maxs-channel_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVISION
-http://streamup.global.ssl.fastly.net/app/univision2chivas_69s-stream/playlist.m3u8
+http://streamup.global.ssl.fastly.net/app/univision2chivas_69s-stream_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Mundo Max
-http://streamup.global.ssl.fastly.net/app/ana69s-channel/playlist.m3u8
+http://streamup.global.ssl.fastly.net/app/ana69s-channel_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Rpc TV
 http://live.rpctv.com/rpctv/rpc.smil/chunklist_w1859188126_b896000_slesp.m3u8
