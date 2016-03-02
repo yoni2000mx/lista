@@ -276,6 +276,102 @@ http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
 #EXTINF:-1 group-title="NOTICIAS",ABC News 
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
+#EXTINF:-1,otros
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+
+#EXTINF:-1,CBC BOSTON 
+http://tfrt.ufcfan.org:6198/vod3/live/CBS-BOSTON.m3u8
+
+#EXTINF:-1,ON DIRECTV 
+http://tfrt.ufcfan.org:6198/vod3/live/n-ONDIRECT.m3u8
+
+#EXTINF:-1,telemundoPR HD 
+http://tfrt.ufcfan.org:6198/vod3/live/tteellenmun.m3u8
+
+#EXTINF:-1,telemundoprsd 
+http://tfrt.ufcfan.org:6198/vod3/live/telemundoPRSD.m3u8
+
+#EXTINF:-1,wapa tv HD 
+http://149.56.16.42:6198/vod3/live/90wap.m3u8
+
+#EXTINF:-1,wapa pr sd 
+http://tfrt.ufcfan.org:6198/vod3/live/wapaSD.m3u8
+
+#EXTINF:-1,univision pr HD
+http://tfrt.ufcfan.org:6198/vod3/live/PRunivisionHD.m3u8
+
+#EXTINF:-1,wapa 2 
+http://tfrt.ufcfan.org:6198/vod3/live/90wap2.m3u8
+
+#EXTINF:-1,puertoricotv
+http://tfrt.ufcfan.org:6198/vod3/live/C-PUERTORICOTV.m3u8
+
+#EXTINF:-1,puertoricotv2 
+http://tfrt.ufcfan.org:6198/vod3/live/@prpunto2.m3u8
+
+#EXTINF:-1,teleislapr
+http://158.69.24.204:5656/hls/tele-islaNuevo.m3u8
+
+#EXTINF:-1,tivaprhd
+http://tfrt.ufcfan.org:6198/vod3/live/@tivapr.m3u8
+
+#EXTINF:-1,pbskids 
+http://tfrt.ufcfan.org:6198/vod3/live/PR-AMERICATV-OTA.m3u8
+
+#EXTINF:-1,megatv pr
+http://tfrt.ufcfan.org:6198/vod3/live/PR-MEGATV-OTA.m3u8
+
+#EXTINF:-1,pr Veme
+http://tfrt.ufcfan.org:6198/vod3/live/PR-VEME.m3u8
+
+#EXTINF:-1,FOX españa
+http://tfrt.ufcfan.org:6198/voduk/hls/UK-FOXHD.m3u8
+
+#EXTINF:-1,UFC network
+http://tfrt.ufcfan.org:6198/vod3/live/UFC-NET.m3u8
+
+#EXTINF:-1,FOX NFL
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+
+#EXTINF:-1,ESPN Latino
+http://tfrt.ufcfan.org:6198/vod1/live/la-espnHD.m3u8
+
+#EXTINF:-1,NBC GOLF
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+
+#EXTINF:-1,Es history hd
+http://192.99.4.70:88/mundosat/History.m3u8
+
+#EXTINF:-1,PBS NEws boston
+http://tfrt.ufcfan.org:6198/vod3/live/PBS-NewsBostong.m3u8
+
+#EXTINF:-1,HBO Latino
+http://tfrt.ufcfan.org:6198/vod3/live/n-HBO-LATINO.m3u8
+
+#EXTINF:-1,TNT Sport
+http://tfrt.ufcfan.org:6198/vod3/live/TNTHD.m3u8
+
+#EXTINF:-1,Bein Sports
+http://tfrt.ufcfan.org:6198/vod3/live/BEIN-SPORT-HD.m3u8
+
+#EXTINF:-1,ESPN USA
+http://tfrt.ufcfan.org:6198/vod3/live/BEIN-SPORT-HD.m3u8
+
+#EXTINF:-1,ESPN
+http://1jqww8i21231.0x4242481923.tk/lk.m3u8?mxg=U2FsdGVkX18i96cg4qVlyY5R5ZeNNY7Cr9ZA7WnexTBg%2FoKEzPyvPK0%2BE4zMUrVFzJ1%2BuP%2FGY%2Fq1I4MHNF%2FRbA%3D%3D
+
+#EXTINF:-1,ESPN HD es 
+http://tfrt.ufcfan.org:6198/vod1/live/la-espnHD.m3u8
+
+#EXTINF:-1,Foxsports
+http://q3813di1.0x4242481923.tk:8080/lk.m3u8?mxg=U2FsdGVkX19b4ctFL4TDX8FqwIIoqYf5JHHSITcgmsJXoLj9xpYED5rcf9hjBCr%2BhJig0YWOhUB%2FPAwa40IaLA%3D%3D
+
+#EXTINF:-1,MLB USA
+http://tfrt.ufcfan.org:6198/vod3/live/n-MLB.m3u8
+
+#EXTINF:-1,CBS Sports Network
+http://tfrt.ufcfan.org:6198/vod3/live/CBSNETWORK-USA-HD.m3u8
+
 #EXTINF:-1,CANAL 1
 http://iptv-supplier.com:8000/live/elm/elm/479.ts
 
