@@ -93,8 +93,11 @@ http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/master.m3u8?
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A3 SERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8?
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8?
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+
+#EXTINF:-1,Energy
+http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
@@ -102,8 +105,11 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Nova
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Telecinco
-http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8
+#EXTINF:-1,Cuatro
+http://mediasethls-lh.akamaihd.net/i/mitele/cuatro_ng@393134/index_700_av-p.m3u8
+
+#EXTINF:-1,Telecinco
+http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-p.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?
@@ -140,6 +146,9 @@ http://streamup.global.ssl.fastly.net/app/broadmoviess-channel_aac/playlist.m3u8
 
 #EXTINF:1,Peliculas HD
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1,Paramount Channel
+http://195.55.74.212/paramount/live/stream.m3u8
 
 #EXTINF:-1 tvg-logo="discovery channel.png",Discovery en Espanol
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
@@ -326,6 +335,12 @@ http://tfrt.ufcfan.org:6198/vod3/live/PR-VEME.m3u8
 
 #EXTINF:-1,FOX españa
 http://tfrt.ufcfan.org:6198/voduk/hls/UK-FOXHD.m3u8
+
+#EXTINF:-1,Univisión TDN
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
+
+#EXTINF:-1,azteca deportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/master.m3u8
 
 #EXTINF:-1,UFC network
 http://tfrt.ufcfan.org:6198/vod3/live/UFC-NET.m3u8
