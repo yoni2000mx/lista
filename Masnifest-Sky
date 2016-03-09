@@ -54,8 +54,8 @@ http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO 39
 http://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream_aac/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Estrella TV
-http://streamup.global.ssl.fastly.net/app/vic_manz02s-stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Unimas
+http://streamup.global.ssl.fastly.net/app/unimas-1s-stream_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Azteca US
 http://streamup.global.ssl.fastly.net/app/vic_manzs-stream_aac/playlist.m3u8
