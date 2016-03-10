@@ -141,6 +141,21 @@ http://streamup.global.ssl.fastly.net/app/broadmoviess-channel_aac/playlist.m3u8
 #EXTINF:1,Peliculas HD
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 
+#EXTINF:1,Hbo
+http://199.180.114.174:88/files/hbo.m3u8
+
+#EXTINF:1,Fox Famiy
+http://199.180.114.174:88/files/foxfamily.m3u8
+
+#EXTINF:1,Fox 1 HD
+http://199.180.114.174:88/files/fox1.m3u8
+
+#EXTINF:1,Fox
+http://199.180.114.174:88/files/foxtv.m3u8
+
+#EXTINF:1,Fox Movies
+http://199.180.114.174:88/files/foxmovies.m3u8
+
 #EXTINF:-1,Paramount Channel
 http://195.55.74.212/paramount/live/stream.m3u8
 
