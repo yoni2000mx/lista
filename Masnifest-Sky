@@ -78,9 +78,6 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Tele UnoTV
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 
-#EXTINF:-1,TELEFE HD
-http://streamup.global.ssl.fastly.net/app/beto_3s-channel/playlist.m3u8
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO",America TV HD
 http://prepublish.f.qaotic.net/epb/americatvlive-100056/playlist.m3u8
 
@@ -224,9 +221,6 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",PAC-12 Net. (Washington)
 http://xrxs.net/video/live-p12wash-4728.m3u8
-
-#EXTINF:-1 tvg-logo="tvultimate.png",Cbeebies 
-http://104.131.117.246:8081/chuy/76/014-Cbeebies/playlist.m3u8
 
 #EXTINF:-1,TIGO MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
